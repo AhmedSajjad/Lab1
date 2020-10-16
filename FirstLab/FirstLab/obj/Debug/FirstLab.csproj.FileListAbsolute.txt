@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Fist Lab\FirstLab\FirstLab\obj\Debug\FirstLab.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Fist Lab\FirstLab\FirstLab\obj\Debug\FirstLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Fist Lab\FirstLab\FirstLab\bin\Debug\FirstLab.exe.config
+C:\Users\User\Desktop\Fist Lab\FirstLab\FirstLab\bin\Debug\FirstLab.exe
+C:\Users\User\Desktop\Fist Lab\FirstLab\FirstLab\bin\Debug\FirstLab.pdb
+C:\Users\User\Desktop\Fist Lab\FirstLab\FirstLab\obj\Debug\FirstLab.exe
+C:\Users\User\Desktop\Fist Lab\FirstLab\FirstLab\obj\Debug\FirstLab.pdb
